@@ -8,3 +8,4 @@ Current focus: restaurants in a given area or by name and return you their menu 
 * Python
 * Docker
 * AWS
+* Crawler: aiohttp/playwright
