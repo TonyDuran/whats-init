@@ -1,7 +1,7 @@
 import pathlib
 
 def main():
-    print('stub')
+    return 'stub'
 
 
 
