@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import pathlib
 import asyncio
+from heimdall import Message
 
 
 async def handle_message(reader, writer):
